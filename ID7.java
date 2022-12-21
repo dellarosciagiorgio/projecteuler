@@ -3,14 +3,12 @@
 
 public class ID7 {
     public static boolean isPrime (int x) {
-        boolean prime = true;
         for (int i = 2; i < x; ++i) {
             if (x % i == 0) {
-                prime = false;
-                break;
+                return false;
             }
         }
-        return prime;
+        return true;
     }
 
     public static void main (String[] args) {

@@ -2,7 +2,7 @@
 
 i did them in <tt>java</tt> as i have to practice for a college exam.
 
-you will only find the first hundred problems since it is specified in the tos:
+you will ony find some of the first hundred problems since it is specified in the tos:
 
 <i>
 
